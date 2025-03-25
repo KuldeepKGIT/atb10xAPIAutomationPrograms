@@ -8,8 +8,7 @@ import io.restassured.response.ValidatableResponse;
 import io.restassured.specification.RequestSpecification;
 import org.testng.annotations.Test;
 
-public class
-APITesting_008_NonBDD_post {
+public class APITesting_008_NonBDD_post {
     RequestSpecification R;
     Response response;
     ValidatableResponse vr;
